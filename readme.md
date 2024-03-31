@@ -8,3 +8,9 @@ Escribir sobre nosostros...
 ## Contact me
 
 Hacer el cierre de la presentación, invitqando a contactar...
+
+## Languages
+
+- English
+- Spanish
+- Portuguese
