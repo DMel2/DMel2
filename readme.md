@@ -7,6 +7,7 @@ Escribir sobre nosostros...
 
 ## Contact me
 
+
 Hacer el cierre de la presentación, invitando a contactar...
 
 ## Technologies
@@ -15,3 +16,9 @@ Hacer el cierre de la presentación, invitando a contactar...
 - CSS
 - JS
 
+## Skills
+
+- Coaching
+
+## Hobbies
+- Dancing
