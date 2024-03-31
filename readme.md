@@ -12,3 +12,6 @@ Hacer el cierre de la presentación, invitqando a contactar...
 ## Skills
 
 - Coaching
+
+## Hobbies
+- Dancing
